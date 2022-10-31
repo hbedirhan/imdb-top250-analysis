@@ -1,4 +1,4 @@
-# imdb-top-250-analizi
+# imdb-top250-analysis
 
 I analyzed imdb top250 but limited data. Title-Rating-Year.
 
