@@ -3,14 +3,14 @@
 I analyzed imdb top250 but limited data. Title-Rating-Year.
 
 In this chart, I showed the distribution of the top 250 movies on imdb according to their imdb score.
-![Figure_1](https://user-images.githubusercontent.com/100408945/198981190-12164acf-e7dd-466e-b97b-0764a6fd9a0d.png) 
+![Figure_1](https://user-images.githubusercontent.com/100408945/198999644-02d1a261-21fe-4bca-adc5-86fcce4ac0c3.png)
 
 In this chart, I showed the distribution of the movies in the imdb top 250 according to their release years.
-![Figure_2](https://user-images.githubusercontent.com/100408945/198981558-f964a10a-3bf3-4ed8-af63-d2b7f5581b1e.png)
+![Figure_2](https://user-images.githubusercontent.com/100408945/198999667-c0bc5651-bbdd-4c0d-b56a-b7e3194b614d.png)
 
 In this chart, I compared the imdb averages of the movies released between 1991-2000 and the imdb averages of the movies released between 2001-2010. The number of films released in these years is higher than in other years, and the number of films released in these years is very close to each other.
 
-![Figure_3](https://user-images.githubusercontent.com/100408945/198981856-2d87ab92-8773-4e52-aba6-a3e707084b6d.png)
+![Figure_3](https://user-images.githubusercontent.com/100408945/198999685-a07521fe-f1db-444d-8248-5f6bb0676f8b.png)
 
 The film with the highest imdb rating of the 70s;
 
