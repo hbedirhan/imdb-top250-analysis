@@ -11,4 +11,13 @@ Bu grafikte imdb top 250 içerisinde yer alan filmlerin imdb puanına göre dağ
 Bu grafikte imdb top 250 içerisinde yer alan filmlerin çıkış yıllarına göre dağılımlarını gösterdim.
 
 ![Figure_3](https://user-images.githubusercontent.com/100408945/198981856-2d87ab92-8773-4e52-aba6-a3e707084b6d.png)
+
 Bu grafikte imdb top 250 içinde yer alan, 1991-2000 yılları arasında çıkmış filmlerin imdb ortalamalarıyla 2001-2010 arasında çıkmış filmlerin imdb ortalamalarını karşılaştırdım. Bu yıl aralıklarını seçmemin sebebi ise bu yıllarda çıkmış filmlerin sayısının diğer yıllara göre fazla olması ve bu yıllarda birbirine çok yakın sayıda film çıkmış olması.
+
+![analysis py - Workspace - Visual Studio Code 31 10 2022 13_06_34](https://user-images.githubusercontent.com/100408945/198984338-940948c4-00d5-45d6-a99a-90162cfa89df.png)
+
+70'lerin en yüksek imdb puanına sahip filmi
+
+![analysis py - Workspace - Visual Studio Code 31 10 2022 13_07_15](https://user-images.githubusercontent.com/100408945/198984732-556e1e8d-1f32-49aa-9770-44125570b956.png)
+
+80'lerin en yüksek imdb puanına sahip filmi
