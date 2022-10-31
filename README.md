@@ -14,7 +14,7 @@ Bu grafikte imdb top 250 içerisinde yer alan filmlerin çıkış yıllarına g�
 
 Bu grafikte imdb top 250 içinde yer alan, 1991-2000 yılları arasında çıkmış filmlerin imdb ortalamalarıyla 2001-2010 arasında çıkmış filmlerin imdb ortalamalarını karşılaştırdım. Bu yıl aralıklarını seçmemin sebebi ise bu yıllarda çıkmış filmlerin sayısının diğer yıllara göre fazla olması ve bu yıllarda birbirine çok yakın sayıda film çıkmış olması.
 
-![analysis py - Workspace - Visual Studio Code 31 10 2022 13_06_34](https://user-images.githubusercontent.com/100408945/198984338-940948c4-00d5-45d6-a99a-90162cfa89df.png)
+![analysis py - Workspace - Visual Studio Code 31 10 2022 13_06_34](https://user-images.githubusercontent.com/100408945/198985125-8e283d91-00fd-4782-a8bc-49fdff00fdda.png)
 
 70'lerin en yüksek imdb puanına sahip filmi
 
