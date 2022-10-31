@@ -2,10 +2,8 @@
 
 I analyzed imdb top250 but limited data. Title-Rating-Year.
 
-Bu grafikte imdb top 250 içerisinde yer alan filmlerin imdb puanına göre dağılımları gösterdim.
+In this chart, I showed the distribution of the top 250 movies on imdb according to their imdb score.
 ![Figure_1](https://user-images.githubusercontent.com/100408945/198981190-12164acf-e7dd-466e-b97b-0764a6fd9a0d.png) 
-
-Bu grafikte imdb top 250 içerisinde yer alan filmlerin imdb puanına göre dağılımları gösterdim.
 
 ![Figure_2](https://user-images.githubusercontent.com/100408945/198981558-f964a10a-3bf3-4ed8-af63-d2b7f5581b1e.png)
 
