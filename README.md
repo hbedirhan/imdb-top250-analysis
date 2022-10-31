@@ -1,1 +1,1 @@
-# -mdb-top-250-analizi
+# imdb-top-250-analizi
