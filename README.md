@@ -12,7 +12,9 @@ In this chart, I compared the imdb averages of the movies released between 1991-
 ![Figure_3](https://user-images.githubusercontent.com/100408945/198981856-2d87ab92-8773-4e52-aba6-a3e707084b6d.png)
 
 The film with the highest imdb rating of the 70s;
+
 ![analysis py - Workspace - Visual Studio Code 31 10 2022 13_06_34](https://user-images.githubusercontent.com/100408945/198985125-8e283d91-00fd-4782-a8bc-49fdff00fdda.png)
 
 The film with the highest imdb rating of the 80s;
+
 ![analysis py - Workspace - Visual Studio Code 31 10 2022 13_07_15](https://user-images.githubusercontent.com/100408945/198984732-556e1e8d-1f32-49aa-9770-44125570b956.png)
